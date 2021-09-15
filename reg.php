@@ -8,7 +8,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
     <meta name="HandheldFriendly" content="true">
-    <title>Login</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Azərbaycan Könüllü Təşkilatları İttifaqı</title>
+    <link rel="icon" href="http://konullu.gov.az/img/icon.svg" type="image/svg" sizes="25x25">
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -32,7 +34,7 @@
             </div>
 
             <!-- Login Form -->
-            <form id="frmid" action="process" method="POST">
+            <form id="frmid" action="save" method="POST">
                 <div class="container box fadeInDown">
                     <form method="post" id="register_form" action="save">
                         <ul class="nav nav-tabs">
