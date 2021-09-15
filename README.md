@@ -1,1 +1,0 @@
-"# akti-qeydiyyat-php" 
